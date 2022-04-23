@@ -102,7 +102,9 @@
     
     #image {
         float: right;
-        width: 100%;
+        width: 110%;
+        background-color: transparent;
+        height: 30rem;
     }
     
     h5 {
